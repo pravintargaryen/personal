@@ -1,0 +1,21 @@
+body {
+    background: #057861;
+    background: linear-gradient(135deg, #057861, #3B1C54);
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Oxygen, sans-serif;
+    color: #fff;
+}
+
+
+button {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: orange;
+    border: 1px solid orange;
+    cursor: pointer;
+}

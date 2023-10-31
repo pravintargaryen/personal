@@ -1,0 +1,13 @@
+<html>
+<head>
+<script src="https://kit.fontawesome.com/6df7ba1858.js" crossorigin="anonymous"></script>
+<link href="./styles.css" rel="stylesheet">
+</head>
+<body>
+<audio src="Beat_It.mp3"></audio>
+<button id="button">
+  <i class="fas fa-volume-up"></i>
+</button>
+</body>
+<script type="module" src="./index.js"></script>
+</html>
